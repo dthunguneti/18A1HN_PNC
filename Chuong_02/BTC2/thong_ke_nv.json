@@ -1,0 +1,10 @@
+{
+  "Tên công ty": "Công ty Đất Việt",
+  "Địa chỉ": "12 Đường Giải Phóng, Hà Nội",
+  "Thông Tin": [
+    {"Tên đơn vị": "Phòng Kinh Doanh", "Số lượng nhân viên": 25},
+    {"Tên đơn vị": "Phòng Hành Chính", "Số lượng nhân viên": 10},
+    {"Tên đơn vị": "Phòng Kỹ Thuật", "Số lượng nhân viên": 15}
+
+  ]    
+}
