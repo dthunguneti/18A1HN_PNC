@@ -1,0 +1,12 @@
+<? xml versin = "1.0" encoding = "utf-8"?>
+<Company>
+    <Manager>
+        <Name> Nguyen Van A </Name>
+        <Address>
+            <NumberHouse> 289 </NumberHouse>
+            <NumberStrest> Louis 1, Louis City </NumberStrest>    
+        </Address>
+        <PhoneNumber>0971034913</PhoneNumber>
+        <TaxCode> NB2006 </TaxCode>
+    </Manager>
+</Company>

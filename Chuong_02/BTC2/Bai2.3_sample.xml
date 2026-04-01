@@ -1,0 +1,17 @@
+<?xml version = "1.0"?>
+<Company>
+    <Name>GeeksForGeeks Company</Name>
+    <staff id="1">
+        <name> Amar Pandey </name>
+        <salary> 8.5 LPA </salary>
+    </staff>    
+    <staff id="2">
+        <name> Suresh Raina </name>
+        <salary> 10.5 LPA </salary>
+    </staff>
+    <staff id="3">
+        <name> Virat Kohli </name>
+        <salary> 15.5 LPA </salary>
+    </staff>
+</Company>    
+

@@ -1,0 +1,10 @@
+<? xml version = "1.0" encoding = "utf-8" ?>
+<List_Student>
+    <Student>
+        <MSV>24174600037</MSV>
+        <Name>Dinh Tien Hung </Name>
+        <Birth>12/10/2006</Birth>
+        <Class>18A1HN</Class>
+        <Sex>Nam</Sex>
+    </Student>
+</List_Student>
